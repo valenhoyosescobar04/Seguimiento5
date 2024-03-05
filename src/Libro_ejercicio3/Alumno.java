@@ -1,4 +1,4 @@
-package Libro;
+package Libro_ejercicio3;
 
 public class Alumno extends Persona {
     private String curso;

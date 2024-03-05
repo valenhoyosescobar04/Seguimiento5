@@ -1,4 +1,4 @@
-package Libro;
+package Libro_ejercicio3;
 import javax.swing.JOptionPane;
 import java.util.ArrayList;
 public class Persona {
